@@ -11,8 +11,10 @@
 - **Other**: C#, Node.js, SQL
 
 ## 📂 Featured Projects
-- [🏥 Hospital Management Website](https://github.com/yourusername/hospital-project)
-- [💬 Real-Time Chat App](https://github.com/yourusername/chat-app)
+- 🏥 Hospital Management Website
+- 💬 Real-Time Chat App
+- 💍 Wedding Planner Website
+- 🚗 Car Management Website  
 
 ## 📫 Contact Me
 - 📧 Email: engy55342@gmail.com
