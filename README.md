@@ -44,9 +44,15 @@ I was honored by [Global Knowledge](https://www.globalknowledge.com/) during my 
 - 🚗 Car Management Website  
 
 ## 📫 Contact Me
-- 📧 Email: engy55342@gmail.com  
-- 📱 Phone: 01096086393  
-- 🔗 LinkedIn: [Engy Hussein](https://www.linkedin.com/in/engy-hussein-012661262)
+- 📧 **Email**: [engy55342@gmail.com](mailto:engy55342@gmail.com)
+- 📱 **Phone**: [01096086393](tel:+201096086393)
+- 🔗 **LinkedIn**: [Engy Hussein](https://www.linkedin.com/in/engy-hussein-012661262)
+- 🌍 **Location**: Luxor, Egypt
+- 🐦 **Twitter**: [@engyhusseinn](https://x.com/engyhusseinn?s=21&t=2l3kFb3jlw6E40QVgzc_RA)
+- 📘 **Facebook**: [Engy Hussein](https://www.facebook.com/share/1PPncekG47/?mibextid=wwXIfr)
+- 📸 **Instagram**: [@engyhussein10](https://www.instagram.com/engyhussein10?igsh=MTB6ZHB2aHd0cjUy&utm_source=qr)
+
+  
 
 ---
 
