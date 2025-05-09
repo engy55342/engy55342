@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Engy Hussein!
 
-<!--
-**engy55342/engy55342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+- 🎓 Junior **Azure Cloud Engineer** & **Frontend Developer**
+- ☁️ Interested in **Cloud**, **DevOps**, and **Web Development**
+- 🚀 Currently learning: Docker, GitHub Actions, Kubernetes
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Cloud**: Azure, GitHub Actions, Docker, Linux
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Other**: C#, Node.js, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [🏥 Hospital Management Website](https://github.com/yourusername/hospital-project)
+- [💬 Real-Time Chat App](https://github.com/yourusername/chat-app)
+
+## 📫 Contact Me
+- 📧 Email: engy55342@gmail.com
+- 📱 Phone: 01096086393
+- 🔗 LinkedIn: [Engy Hussein](https://www.linkedin.com/in/engy-hussein-012661262)
