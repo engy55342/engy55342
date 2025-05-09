@@ -25,11 +25,11 @@
   <img src="assets/f0576a52-404e-402b-8d13-3a6e7d53deb6.jpeg" width="500" />
 
 - **Business English Certificate**  
-  <img src="assets/87d95208-a514-4238-b290-719da66bb9bc.jpeg" width="500" />
+  <img src="assets/9a11fda5-0c7b-43bd-b3db-2dec51b09cfb.jpeg" width="500" />
 
 ### 🏆 **Recognition from [Global Knowledge](https://www.globalknowledge.com/)**
 I was honored by [Global Knowledge](https://www.globalknowledge.com/) during my training in the "Digital Egypt Pioneers" scholarship program.  
-<img src="assets/9a11fda5-0c7b-43bd-b3db-2dec51b09cfb.jpeg" width="500" />
+<img src="assets/87d95208-a514-4238-b290-719da66bb9bc.jpeg" width="500" />
 
 ## 🛠️ Skills
 - **Cloud**: Azure, GitHub Actions, Docker, Linux
