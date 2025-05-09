@@ -22,14 +22,14 @@
 
 ### 🎓 **Digital Egypt Pioneers Initiative Certificates**
 - **Azure Cloud Solutions Admin & Architect**  
-  <img src="https://drive.google.com/uc?export=view&id=1H4DEQdjJlxTzWw2H1S4KKMkEAt-GoLwL" width="500" />
+  <img src="https://imgur.com/a/vBVuDjQ" width="500" />
 
 - **Business English Certificate**  
-  <img src="https://drive.google.com/uc?export=view&id=1sLYn-eEyAWZcoW2TEXHf-zRIe6cV6_Qv" width="500" />
+  <img src="https://imgur.com/a/9mRw08Y" width="500" />
 
 ### 🏆 **Recognition from [Global Knowledge](https://www.globalknowledge.com/)**
 I was honored by [Global Knowledge](https://www.globalknowledge.com/) during my training in the "Digital Egypt Pioneers" scholarship program.  
-<img src="https://drive.google.com/uc?export=view&id=1UwQ_ggOAf4Cc2juR3Z02xask-S8oMyer" width="500" />
+<img src="https://imgur.com/a/o1fdvwK" width="500" />
 
 
 ## 🛠️ Skills
